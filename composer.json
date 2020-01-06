@@ -1,7 +1,10 @@
 {
     "name": "gento-arg/oca-php-api",
     "description": "PHP class for OCA Express Pak",
-    "keywords": ["oca", "oca express pak"],
+    "keywords": [
+        "oca",
+        "oca express pak"
+    ],
     "license": "GPL-3.0+",
     "authors": [
         {
@@ -11,9 +14,12 @@
         {
             "name": "Nerio Espina",
             "email": "nerioespina@gmail.com"
+        },
+        {
+            "name": "Manuel Canepa",
+            "email": "manuelcanepa@gmail.com"
         }
     ],
-    "require": {},
     "autoload": {
         "classmap": [
             "oca.php"

@@ -3,7 +3,7 @@ Clase PHP para OCA Express Pak.
 ### Con Composer
 Desde línea de comandos
 ```
-composer require nerioespina/oca-php-api
+composer require gento-arg/oca-php-api
 ```
 
 Como dependencia en tu proyecto a través de composer.json
@@ -11,7 +11,7 @@ Como dependencia en tu proyecto a través de composer.json
 ```json
 {
     "require": {
-        "nerioespina/oca-php-api": "1.0"
+        "gento-arg/oca-php-api": "1.0"
     }
 }
 ```
